@@ -88,6 +88,13 @@ This makes them a good way for development & operation departments to communicat
 2. helm is sorta a 200 level thing.
 1. TIL that `Docker Official Image` exits on https://hub.docker.com/
 1. https://artifacthub.io/ is a good way to distribute helm files.
+1. https://opentelemetry.io/ is cool
+   1. Aspire is good search: .NET Aspire
+      1. logs
+      2. Traces
+      3. Metrics
+   1. aspire:4318 is a common collection URL
+1. k8s daemon sets keep track of health of a node and virtual machine.
 
 
 
