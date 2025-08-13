@@ -64,6 +64,8 @@ This makes them a good way for development & operation departments to communicat
    4. appsetttings.*.json
    4. **/launchSettings.json
 
+### Note `!filenamePattern` is an exception
+
 ## Docker is an ecosystem around container virtualization.  
 
 # Tips
