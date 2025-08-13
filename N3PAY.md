@@ -134,3 +134,11 @@ This class takes the view of k8s developers, not k8s administrators.
 1. type: clusterIP -- 
 1. nodePort goes from 32000 to 33000 typically.  Exposed publically typically
    1. Create firewall to block these because they useually do not need to be exposed publically
+1. service of type LoadBalancer -- usally provisions a piece of hardware in your cluster.
+   1. In docker desktop it errors out
+   1. In miniCube it fakes it
+
+## Ingress hack - use NodePort
+1. Since Ingress does not work right on docker desktop we'll, in this class, use NodePport as a hack to avoid tihs.  Since NodePort have public IP#s.
+
+
