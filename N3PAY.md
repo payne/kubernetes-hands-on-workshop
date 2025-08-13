@@ -145,7 +145,7 @@ This class takes the view of k8s developers, not k8s administrators.
 1. Since Ingress does not work right on docker desktop we'll, in this class, use NodePport as a hack to avoid tihs.  Since NodePort have public IP#s.
 1. `kubectl port-forard` can help with debugging
 
-## People
+## People1
 1. Kelesey Hightower -- big k8s and dev advocate.   
 
 
@@ -159,4 +159,6 @@ This class takes the view of k8s developers, not k8s administrators.
 
 B-K8s chapter 5 through 12 first 
 
-
+# Notes from misc demos at the end
+1. Delete deployment with kubectl to clean up the things that deployment manages
+1. kubectl get namespaces # list org boundaries.  They are not security boundaries
