@@ -72,6 +72,8 @@ This makes them a good way for development & operation departments to communicat
 1. Changing the `Dockerfile` requires rebuilding the docker container before you run the new docker container.
 1. Containers tools extension for VS Code is good.
 1. `docker container rm -f abc` will stop and remove
+1. [.NET Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview?tabs=bash) is cool.  IDK why instructor said that.
+
 
 
 
