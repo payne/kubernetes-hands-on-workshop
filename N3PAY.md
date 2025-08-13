@@ -129,3 +129,8 @@ This class takes the view of k8s developers, not k8s administrators.
 1. https://www.reddit.com/r/kubernetes/comments/83krnb/exercises_to_learn_kubernetes/
 1. https://learnkube.com/ is likely not free.
 
+## Serivce
+1. Job is to round robin to all of the pods it is assigned to
+1. type: clusterIP -- 
+1. nodePort goes from 32000 to 33000 typically.  Exposed publically typically
+   1. Create firewall to block these because they useually do not need to be exposed publically
