@@ -79,7 +79,7 @@ This makes them a good way for development & operation departments to communicat
 1. to make secure  -- don't put compile tools in the image
 2. do expensive operations only once
 
-![alt text](image.png)
+![Instructor live coded this](i/image.png)
 
 # Break then chapters 2 through 5
 
