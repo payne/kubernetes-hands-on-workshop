@@ -129,6 +129,7 @@ This class takes the view of k8s developers, not k8s administrators.
 1. https://www.reddit.com/r/kubernetes/comments/83krnb/exercises_to_learn_kubernetes/
 1. https://learnkube.com/ is likely not free.
 1. https://www.youtube.com/@cncf is important
+1. I hope https://github.com/eficode-academy/kubernetes-katas is good because there are not enough concrete examples in the second half of this class.  
 
 ## Serivce
 1. Job is to round robin to all of the pods it is assigned to
@@ -138,6 +139,7 @@ This class takes the view of k8s developers, not k8s administrators.
 1. service of type LoadBalancer -- usally provisions a piece of hardware in your cluster.
    1. In docker desktop it errors out
    1. In miniCube it fakes it
+1. There's a teraform workshop from robricch on his github.
 
 ## Ingress hack - use NodePort
 1. Since Ingress does not work right on docker desktop we'll, in this class, use NodePport as a hack to avoid tihs.  Since NodePort have public IP#s.
@@ -150,3 +152,11 @@ This class takes the view of k8s developers, not k8s administrators.
 
 ## Tricks
 1. `kubectl api-resources` 
+1. There's a teraform workshop from robricch on his github.
+1. https://www.pulumi.com/ai might be good
+
+# BREAK
+
+B-K8s chapter 5 through 12 first 
+
+
