@@ -79,9 +79,13 @@ This makes them a good way for development & operation departments to communicat
 1. to make secure  -- don't put compile tools in the image
 2. do expensive operations only once
 
+![alt text](image.png)
+
 # Break then chapters 2 through 5
 
-
+1. service mesh exists is sorta a 300 level thing
+1. stateful workloads is a 200 level thing
+2. helm is sorta a 200 level thing.
 
 
 
