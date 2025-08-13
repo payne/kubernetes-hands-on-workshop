@@ -105,5 +105,17 @@ This makes them a good way for development & operation departments to communicat
 ## `kubectl` is a good cli
 1. Send commands to k8s
 
+a11y -- accesilbilty
+i18n -- internationalization
+
+
+Search kubeadm or look to kubernetes.io/docs/setup
+
+This class takes the view of k8s developers, not k8s administrators.  
+
+### k3s -- is an easier and simiplier way to k8s
+
+### k0s -- ulitimate lightweight k8s is new
+
 
 
