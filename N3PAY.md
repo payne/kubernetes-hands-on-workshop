@@ -30,12 +30,23 @@ This makes them a good way for development & operation departments to communicat
 1. docker container stop 6af
 1. docker container
 
+## Big commands
+1. FROM - main command
+2. COPY - main command
+3. RUN - main command
+4. ENV
+5. CMD - main command
 
-## Docker is an echosystem around container virtualization.  
+## hub.docker.com is a place to find images
+1. Therre's a "Docker Official Image" that is node.  
+
+
+## Docker is an ecosystem around container virtualization.  
 
 # Tips
 1. Changing the `Dockerfile` requires rebuilding the docker container before you run the new docker container.
-
+1. Containers tools extension for VS Code is good.
+1. `docker container rm -f abc` will stop and remove
 
 
 
