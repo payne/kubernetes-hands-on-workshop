@@ -8,7 +8,8 @@ metadata:
 spec:
   containers:
   - name: hellonode
-    image: hellonode:0.1
+    image: hellonode:v0.1
+    imagePullPolicy: IfNotPresent
     ports:
     - containerPort: 3000
 
