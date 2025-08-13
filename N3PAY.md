@@ -89,13 +89,18 @@ This makes them a good way for development & operation departments to communicat
 1. TIL that `Docker Official Image` exits on https://hub.docker.com/
 1. https://artifacthub.io/ is a good way to distribute helm files.
 1. https://opentelemetry.io/ is cool
-   1. Aspire is good search: .NET Aspire
+   1. Aspire is good search: .NET Aspire https://hub.docker.com/r/microsoft/dotnet-aspire-dashboard  `docker pull mcr.microsoft.com/dotnet/aspire-dashboard:9.3`
       1. logs
       2. Traces
       3. Metrics
    1. aspire:4318 is a common collection URL
 1. k8s daemon sets keep track of health of a node and virtual machine.
 
+
+# After lunch
+1. TIL https://docs.docker.com/scout/ exists
+1. `docker sbom image` is one way to build an SBOM
+1. SQL Server can & MS says should be run in a container.  
 
 
 
