@@ -4,6 +4,8 @@ services:
   backend:
     build:
       context: ./backend
+    depends_on:
+      - postgres
     ports:
       - "5000:5000"
     environment:
@@ -24,6 +26,8 @@ services:
       - "5432:5432"
   adminer:
     image: adminer:standalone
+    depends_on:
+      - backend
     ports:
       - "8080:8080"
 
