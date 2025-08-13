@@ -86,6 +86,9 @@ This makes them a good way for development & operation departments to communicat
 1. service mesh exists is sorta a 300 level thing
 1. stateful workloads is a 200 level thing
 2. helm is sorta a 200 level thing.
+1. TIL that `Docker Official Image` exits on https://hub.docker.com/
+1. https://artifacthub.io/ is a good way to distribute helm files.
+
 
 
 
