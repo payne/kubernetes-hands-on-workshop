@@ -41,6 +41,29 @@ This makes them a good way for development & operation departments to communicat
 1. Therre's a "Docker Official Image" that is node.  
 
 
+## .dockerignore
+1. Downloaded files
+   1. node_modules
+1. built files
+   1. bin
+   2. obj
+   3. dist
+1. user-specfic files
+   1. .vs
+   2. *.suo
+1. temp files
+   1. *.tmp
+   2. .DS_Store
+   3. .zip
+1. secrets
+   3. `.env`
+1. non-production files
+   1. Dockerfile
+   2. .dockerignore
+   3. k8s.yaml
+   4. appsetttings.*.json
+   4. **/launchSettings.json
+
 ## Docker is an ecosystem around container virtualization.  
 
 # Tips
