@@ -162,3 +162,14 @@ B-K8s chapter 5 through 12 first
 # Notes from misc demos at the end
 1. Delete deployment with kubectl to clean up the things that deployment manages
 1. kubectl get namespaces # list org boundaries.  They are not security boundaries
+1. docker image list
+1. https://github.com/skooner-k8s/skooner is nice.  Portainer is nice too.
+1. Helm is a templating system to DRY up config files.
+   1. Can use any go template thing.
+   1. Space trimmming syntax is very helpful
+1. https://artifacthub.io/ allows finding cloud native things
+
+   1. Space trimmming syntax is very helpful
+1. https://artifacthub.io/ allows finding cloud native things
+1. istio is neat!
+
