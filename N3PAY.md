@@ -75,6 +75,13 @@ This makes them a good way for development & operation departments to communicat
 1. [.NET Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview?tabs=bash) is cool.  IDK why instructor said that.
 
 
+## Use layers 
+1. to make secure  -- don't put compile tools in the image
+2. do expensive operations only once
+
+# Break then chapters 2 through 5
+
+
 
 
 
