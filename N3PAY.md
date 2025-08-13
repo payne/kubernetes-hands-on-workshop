@@ -102,5 +102,8 @@ This makes them a good way for development & operation departments to communicat
 1. `docker sbom image` is one way to build an SBOM
 1. SQL Server can & MS says should be run in a container.  
 
+## `kubectl` is a good cli
+1. Send commands to k8s
+
 
 
