@@ -128,6 +128,7 @@ This class takes the view of k8s developers, not k8s administrators.
 # Learning
 1. https://www.reddit.com/r/kubernetes/comments/83krnb/exercises_to_learn_kubernetes/
 1. https://learnkube.com/ is likely not free.
+1. https://www.youtube.com/@cncf is important
 
 ## Serivce
 1. Job is to round robin to all of the pods it is assigned to
@@ -140,5 +141,12 @@ This class takes the view of k8s developers, not k8s administrators.
 
 ## Ingress hack - use NodePort
 1. Since Ingress does not work right on docker desktop we'll, in this class, use NodePport as a hack to avoid tihs.  Since NodePort have public IP#s.
+1. `kubectl port-forard` can help with debugging
+
+## People
+1. Kelesey Hightower -- big k8s and dev advocate.   
 
 
+
+## Tricks
+1. `kubectl api-resources` 
