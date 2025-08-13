@@ -117,5 +117,15 @@ This class takes the view of k8s developers, not k8s administrators.
 
 ### k0s -- ulitimate lightweight k8s is new
 
+# More trying to follow along
+1. `kubectl config use-context docker-desktop` is important
+1. `kubectl get all`
+2. `kubectl apply -f pod.yaml`
+1. `kubectl get all`
+1. `kubectl describe pod/nginx`
 
+
+# Learning
+1. https://www.reddit.com/r/kubernetes/comments/83krnb/exercises_to_learn_kubernetes/
+1. https://learnkube.com/ is likely not free.
 
